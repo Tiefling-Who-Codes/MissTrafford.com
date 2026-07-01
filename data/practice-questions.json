@@ -1,0 +1,34 @@
+{
+  "textMeta": {
+    "macbeth":   { "label": "Macbeth", "tag": "tag-macbeth" },
+    "carol":     { "label": "A Christmas Carol", "tag": "tag-carol" },
+    "inspector": { "label": "An Inspector Calls", "tag": "tag-inspector" },
+    "romance":   { "label": "Romance Anthology", "tag": "tag-romance" }
+  },
+  "questions": {
+    "macbeth": {
+      "character": { "q": "Explore how Shakespeare presents Macbeth as a character driven by ambition.", "meta": "30 marks · AO1 / AO2" },
+      "theme":     { "q": "Explore how guilt is presented as a powerful force in Macbeth.", "meta": "30 marks · AO1 / AO2" },
+      "context":   { "q": "Explore how a Jacobean audience's beliefs about fate and kingship shape responses to Macbeth.", "meta": "30 marks · AO1 / AO3" },
+      "language":  { "q": "Explore how Shakespeare uses imagery of light and darkness across Macbeth.", "meta": "30 marks · AO2" }
+    },
+    "carol": {
+      "character": { "q": "Explore how Dickens presents Scrooge's transformation across the novella.", "meta": "40 marks · AO1 / AO2" },
+      "theme":     { "q": "Explore how Dickens presents ideas about social responsibility in A Christmas Carol.", "meta": "40 marks · AO1 / AO2" },
+      "context":   { "q": "Explore how Victorian attitudes to poverty shape the message of A Christmas Carol.", "meta": "40 marks · AO1 / AO3" },
+      "language":  { "q": "Explore how Dickens uses the supernatural to structure A Christmas Carol.", "meta": "40 marks · AO2" }
+    },
+    "inspector": {
+      "character": { "q": "Explore how Priestley presents Sheila as a character who changes across the play.", "meta": "30 marks · AO1 / AO2" },
+      "theme":     { "q": "Explore how Priestley presents ideas about collective responsibility in An Inspector Calls.", "meta": "30 marks · AO1 / AO2" },
+      "context":   { "q": "Explore how Priestley's post-war audience would have responded to the play's political message.", "meta": "30 marks · AO1 / AO3" },
+      "language":  { "q": "Explore how Priestley uses dramatic irony to shape the audience's view of the Birling family.", "meta": "30 marks · AO2" }
+    },
+    "romance": {
+      "character": { "q": "Compare how speakers are presented in two poems from the Romance anthology.", "meta": "20 marks · AO1 / AO2" },
+      "theme":     { "q": "Compare how loss is presented in two poems from the Romance anthology.", "meta": "20 marks · AO1 / AO2" },
+      "context":   { "q": "Compare how two poets from the Romance anthology reflect the time they were writing in.", "meta": "20 marks · AO1 / AO3" },
+      "language":  { "q": "Compare how form and structure are used to present feeling in two poems from the Romance anthology.", "meta": "20 marks · AO2" }
+    }
+  }
+}
